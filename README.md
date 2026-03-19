@@ -1,3 +1,19 @@
+# AI Support Chatbot
+
+This project is an NLP-based chatbot built with Python.
+
+Features:
+- Text classification
+- Real-world dataset usage
+- Machine learning models
+
+Currently improving:
+- LLM integration
+- RAG (Retrieval-Augmented Generation)
+- API development with FastAPI
+
+---
+
 <h1 align="center">🧠 NLP Support Ticket Classification System</h1>
 
 <p align="center">
@@ -11,6 +27,7 @@ AI-based system for classifying and prioritizing customer support messages
 </p>
 
 ---
+
 🚀 This project simulates a real-world AI customer support automation system used in modern applications.
 
 ## 📌 Overview
@@ -66,24 +83,3 @@ test = ["Siparişim çok geç geldi"]
 X_test = vectorizer.transform(test)
 
 print(model.predict(X_test))
-```
-
----
-
-## 📈 Future Improvements
-
-* BERT integration
-* Larger dataset
-* Better model accuracy
-
----
-
-## 👨‍💻 Author
-
-**Emre Kaya**
-Computer Engineering Student
-AI & Machine Learning Enthusiast
-
-📫 Contact: [emrekaaya.dev@gmail.com](mailto:emrekaaya.dev@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/kaya-emre-ce
-🔗 GitHub: https://github.com/emrekayy
