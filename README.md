@@ -63,6 +63,7 @@ This project focuses on building an AI-powered system that automatically analyze
 4. Prediction
 
 ---
+google drive link: https://drive.google.com/drive/folders/1ng_lu095BBTIE2enMF2mSXxec2vy8h_h?usp=sharing
 
 ## 📊 Example
 
